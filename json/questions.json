@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Which country appointed Qin Gang as its new foreign minister?",
+    "choice1": "Cuba",
+    "choice2": "Cyprus",
+    "choice3": "Chad",
+    "choice4": "China",
+    "answer": 4
+  },
+  {
+    "question": "On which country did India abstain from voting on a UN resolution?",
+    "choice1": "Ireland",
+    "choice2": "Iceland",
+    "choice3": "Israel",
+    "choice4": "Japan",
+    "answer": 3
+  },
+  {
+    "question": "In which country were 10 new Tsirkon hypersonic cruise missiles test-fired?",
+    "choice1": "Brazil",
+    "choice2": "Russia",
+    "choice3": "New Zealand",
+    "choice4": "India",
+    "answer": 2
+  },
+  {
+    "question": "Who won the UEFA Champions League in 2019?",
+    "choice1": "Real Madrid",
+    "choice2": "Liverpool",
+    "choice3": "Barcelona",
+    "choice4": "Tottenham",
+    "answer": 2
+  },
+  
+  {
+    "question": "Which player holds the NHL record of 2,857 points?",
+    "choice1": "Sidney Crosby",
+    "choice2": "Mario Lemieux",
+    "choice3": "Gordie Howe",
+    "choice4": "Wayne Gretzky",
+    "answer": 4
+  }
+  
+]
